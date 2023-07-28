@@ -17,6 +17,7 @@ function App() {
       <Testimonial />
       <Contact />
       <Footer />
+      xc
     </div>
   );
 }
