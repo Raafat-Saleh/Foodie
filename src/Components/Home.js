@@ -15,9 +15,9 @@ const Home = () => {
           <img src={BannerBackground} alt="" />
         </div>
         <div className="home-text-section">
-          <h1 className="primary-heading">
+          <h2 className="primary-heading">
             Your Favourite Food will be Delivery Fresh
-          </h1>
+          </h2>
           <p className="primary-text">
             Lorem ipsum dolor sit amet consectetur. Maecenas orci et sagittis
             duis elementum interdum facilisi bibendum.
